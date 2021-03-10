@@ -6,7 +6,8 @@ I adapted the structure from [greentfrapp's Deep Learning Book Notes](https://gi
 
 Motivation: Refreshing my knowledge on Deep Learning. I used to have a past interest in machine learning but ultimately abandoned it because I realized that, as with many other people, I liked the applications of deep learning more than the theory. I would much prefer to build product. Anyhow, I will continue to improve as a web developer but machine learning will be my hobby.
 
-I hope this will be of use to someone out there.
+I hope this will be of use to someone out there. Dive in!
+
 ![Dive in!](./dive_in.jpg)
 
 Image taken from [Calvin and Hobbes](GoComics.com/CalvinAndHobbes)
