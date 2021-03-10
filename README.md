@@ -7,13 +7,14 @@ I adapted the structure from [greentfrapp's Deep Learning Book Notes](https://gi
 Motivation: Refreshing my knowledge on Deep Learning. I used to have a past interest in machine learning but ultimately abandoned it because I realized that, as with many other people, I liked the applications of deep learning more than the theory. I would much prefer to build product. Anyhow, I will continue to improve as a web developer but machine learning will be my hobby.
 
 I hope this will be of use to someone out there.
+![Dive in!](https://en.wikipedia.org/wiki/Calvin_and_Hobbes#/media/File:Calvin_and_Hobbes_Original.png)
 
 ## Contents
 
 ## In Progress
 
 - [1 Introduction]
-- [2 Preliminaries]
+- [2 Preliminaries](https://github.com/j0/d2l-exercise-solutions/2-Preliminaries)
 - [3 Linear Neural Networks]
 - [4 Multilayer Perceptrons]
 - [5 Deep Learning Computation]
